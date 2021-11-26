@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-index-js-89c2b511f7b3221f7bca.js","mappings":"oHAMA,UAJA,WACE,MAAO","sources":["webpack://my-site/./src/pages/index.js"],"sourcesContent":["import React from \"react\"\n\nfunction HomePage () {\n  return \"Not Found\"\n}\n\nexport default HomePage;"],"names":[],"sourceRoot":""}
